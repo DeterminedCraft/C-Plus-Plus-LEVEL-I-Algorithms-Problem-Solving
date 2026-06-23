@@ -9,7 +9,8 @@ GitHub: https://github.com/DeterminedCraft
 
 🧠 Motto: Divide & Conquer
 
-────────────────────────────────────────────────────────────
+
+
 
 ## 🚀 Next Phase Preview
 
@@ -148,6 +149,6 @@ It is built from:
 • Structured repetition  
 • Thoughtful decomposition  
 
-## 🧠 Divide the problem. Conquer it step by step.
+ 🧠 Divide the problem. Conquer it step by step.
 
 — Ahmad El-Aina
