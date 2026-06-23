@@ -1,7 +1,7 @@
-<!--
+
 🚀 Level I – Algorithms & Problem Solving 🧠🔥
 Author: Ahmad El-Aina | ahmadelaina@gmail.com
-GitHub: https://github.com/aelaina100
+GitHub: https://github.com/DeterminedCraft
 
 🧠 Motto: Divide & Conquer
 
@@ -147,4 +147,3 @@ It is built from:
 🧠 Divide the problem. Conquer it step by step.
 
 — Ahmad El-Aina
--->
