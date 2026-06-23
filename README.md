@@ -11,7 +11,7 @@ GitHub: https://github.com/DeterminedCraft
 
 ────────────────────────────────────────────────────────────
 
-🚀 Next Phase Preview
+## 🚀 Next Phase Preview
 
 At the end of the previous C++ course, the final file introduced the next stage:
 
@@ -33,7 +33,7 @@ Compress years of practical coding experience into structured, refined implement
 
 ────────────────────────────────────────────────────────────
 
-📌 Overview
+## 📌 Overview
 
 This repository is part of my structured programming roadmap.
 
@@ -50,7 +50,7 @@ it is building the ability to:
 
 ────────────────────────────────────────────────────────────
 
-🎯 Why This Repository Exists
+## 🎯 Why This Repository Exists
 
 I created this repository to:
 
@@ -62,7 +62,7 @@ I created this repository to:
 
 ────────────────────────────────────────────────────────────
 
-🧱 What This Repository Covers
+## 🧱 What This Repository Covers
 
 This repository focuses on foundational problem-solving patterns involving:
 
@@ -79,7 +79,7 @@ Each problem is implemented independently and organized clearly for review and i
 
 ────────────────────────────────────────────────────────────
 
-🧠 Learning Philosophy
+## 🧠 Learning Philosophy
 
 The learning approach used here is based on:
 
@@ -105,7 +105,7 @@ Problems are re-implemented and refined using my own structured mental-model met
 
 ────────────────────────────────────────────────────────────
 
-▶️ How to Use This Repository
+## ▶️ How to Use This Repository
 
 • Clone the repository  
 • Navigate problem by problem  
@@ -117,7 +117,7 @@ This repository is designed to be read, executed, reviewed, and revisited.
 
 ────────────────────────────────────────────────────────────
 
-👥 Intended Audience
+## 👥 Intended Audience
 
 • Self-taught programmers building algorithmic confidence  
 • QA / Automation Engineers strengthening core logic  
@@ -126,7 +126,7 @@ This repository is designed to be read, executed, reviewed, and revisited.
 
 ────────────────────────────────────────────────────────────
 
-🚀 What Comes Next
+## 🚀 What Comes Next
 
 After completing Level I:
 
@@ -138,7 +138,7 @@ After completing Level I:
 
 ────────────────────────────────────────────────────────────
 
-🏁 Final Note
+## 🏁 Final Note
 
 Programming strength is not built from frameworks.
 
@@ -148,6 +148,6 @@ It is built from:
 • Structured repetition  
 • Thoughtful decomposition  
 
-🧠 Divide the problem. Conquer it step by step.
+## 🧠 Divide the problem. Conquer it step by step.
 
 — Ahmad El-Aina
